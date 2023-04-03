@@ -1,0 +1,46 @@
+table, th, td {
+  color: white;
+  border: 5px solid white;
+  border-collapse: collapse;
+  border-radius: 100px;
+}
+
+th, td {
+  text-align: center;
+  background-color: #e2fdff;
+}
+
+th:hover {
+  background-color: yellow;
+}
+
+td:hover {
+  background-color: red;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+th, tr {
+  height: 50px;
+  width: 170px;
+}
+
+th {
+  background-color: #8B8A72;
+}
+
+td {
+  background-color: #FFA3AB;
+}
+
+.time {
+  background-color: #DEA290;
+}
