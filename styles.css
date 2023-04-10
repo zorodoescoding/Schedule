@@ -1,6 +1,6 @@
 table, th, td {
   color: white;
-  border: 5px solid white;
+  border: 5px solid #C7C7C5;
   border-collapse: collapse;
   border-radius: 100px;
 }
@@ -23,9 +23,10 @@ table {
   margin-right: auto;
 }
 
-h1 {
+.title{
   text-align: center;
   font-family: 'Dancing Script', cursive;
+  margin: 30px auto;
 }
 
 th, tr {
@@ -34,13 +35,56 @@ th, tr {
 }
 
 th {
-  background-color: #8B8A72;
+  background-color: #48685D;
 }
 
 td {
-  background-color: #FFA3AB;
+  background-color: #98485B;
 }
 
 .time {
   background-color: #DEA290;
 }
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  font-family: ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+}
+.contact{text-align: center;}
+.butt{margin-top: 50px;}
+.footer{text-align: center;}
+.Introduction{text-align: center;
+  height: 800px;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/72/624/1004/anime-one-piece-zoro-roronoa-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+    background-size:cover;}
+.name{margin-top: 100px;
+font-family: 'Sedgwick Ave Display', cursive;
+font-weight: bold;
+font-size: 60px;}
+.work{font-family: 'Sedgwick Ave Display', cursive;}
+.tab{background-color: #C7C7C5	;}
+body{background-color: #C7C7C5	;}
+.link{color:#198754;
+color: black;  }
+.bottom{background-color: black;}
+.tab{margin-bottom: 30px;}
+.contact{
+  margin-bottom: 20px;
+}
+.footer{color: #198754;}
+.butt{margin:10px 20px 10px 20px;}
