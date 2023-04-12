@@ -95,5 +95,8 @@ color: black;  }
   height:100vh;
   overflow:auto;
   }
+  .name{
+    position:absoulute;
+  }
 }
 
