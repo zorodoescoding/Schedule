@@ -1,8 +1,8 @@
 table, th, td {
   color: white;
-  border: 5px solid #C7C7C5;
+  border: 0.3125rem solid #C7C7C5;
   border-collapse: collapse;
-  border-radius: 100px;
+  border-radius: 6.25rem;
 }
 
 th, td {
@@ -30,8 +30,8 @@ table {
 }
 
 th, tr {
-  height: 50px;
-  width: 170px;
+  height: 3.125rem;
+  width: 10.625rem;
 }
 
 th {
@@ -50,14 +50,14 @@ td {
 }
 
 .navbar-brand {
-  margin-left: 20px;
+  margin-left: 1.25rem;
   font-family: ubuntu;
   font-size: 2.5rem;
   font-weight: bold;
 }
 
 .nav-item {
-  padding: 0 18px;
+  padding: 0 1.125rem;
 }
 
 .nav-link {
@@ -65,30 +65,30 @@ td {
   font-family: Montserrat-light;
 }
 .contact{text-align: center;}
-.butt{margin-top: 50px;}
+.butt{margin-top: 3.125rem;}
 .footer{text-align: center;}
 .Introduction{text-align: center;
-  height: 800px;
+  height: 50rem;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/72/624/1004/anime-one-piece-zoro-roronoa-wallpaper-preview.jpg);
   background-repeat: no-repeat;
     background-size:100% 100%;}
 .name{margin-top: 100px;
 font-family: 'Sedgwick Ave Display', cursive;
 font-weight: bold;
-font-size: 60px;}
+font-size: 3.75rem;}
 .work{font-family: 'Sedgwick Ave Display', cursive;}
 .tab{background-color: #C7C7C5	;}
 body{background-color: #C7C7C5	;}
 .link{color:#198754;
 color: black;  }
 .bottom{background-color: black;}
-.tab{margin-bottom: 30px;}
+.tab{margin-bottom: 1.875rem;}
 .contact{
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 .footer{color: #198754;}
-.butt{margin:10px 20px 10px 20px;}
-@media only screen and (min-device-width : 320px) and (max-device-width : 600px) {
+.butt{margin:0.625rem 1.25rem 0.625rem 1.25rem;}
+@media only screen and (min-device-width : 20rem) and (max-device-width : 37.5rem) {
 .Introduction{
    margin:0px;
   width:100vw;
