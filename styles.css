@@ -88,7 +88,7 @@ color: black;  }
 }
 .footer{color: #198754;}
 .butt{margin:10px 20px 10px 20px;}
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 600px) {
 .Introduction{
    margin:0px;
   width:100vw;
