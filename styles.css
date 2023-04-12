@@ -97,6 +97,8 @@ color: black;  }
   }
   .name{
     position:absolute;
+    left: 30px;
+    down: 40px;
   }
 }
 
