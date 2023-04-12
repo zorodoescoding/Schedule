@@ -68,7 +68,7 @@ td {
 .butt{margin-top: 50px;}
 .footer{text-align: center;}
 .Introduction{text-align: center;
-  height: 800px;
+  
   background-image: url(https://c4.wallpaperflare.com/wallpaper/72/624/1004/anime-one-piece-zoro-roronoa-wallpaper-preview.jpg);
   background-repeat: no-repeat;
     background-size:100% 100%;}
@@ -88,3 +88,12 @@ color: black;  }
 }
 .footer{color: #198754;}
 .butt{margin:10px 20px 10px 20px;}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+.Introduction{
+   margin:0px;
+  width:100vw;
+  height:100vh;
+  overflow:auto;
+  }
+}
+
