@@ -95,10 +95,6 @@ color: black;  }
   height:100vh;
   overflow:auto;
   }
-  .name{
-    position:absolute;
-    left: 30px;
-    down: 40px;
-  }
+  
 }
 
