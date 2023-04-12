@@ -75,7 +75,8 @@ td {
 .name{margin-top: 100px;
 font-family: 'Sedgwick Ave Display', cursive;
 font-weight: bold;
-font-size: 3.75rem;}
+font-size: 3.75rem;
+color: red;}
 .work{font-family: 'Sedgwick Ave Display', cursive;}
 .tab{background-color: #C7C7C5	;}
 body{background-color: #C7C7C5	;}
