@@ -71,7 +71,7 @@ td {
   height: 800px;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/72/624/1004/anime-one-piece-zoro-roronoa-wallpaper-preview.jpg);
   background-repeat: no-repeat;
-    background-size:cover;}
+    background-size:100% 100%;}
 .name{margin-top: 100px;
 font-family: 'Sedgwick Ave Display', cursive;
 font-weight: bold;
