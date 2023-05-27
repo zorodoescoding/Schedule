@@ -25,6 +25,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Inspiration&display=swap" rel="stylesheet">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+  <script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+   Integrity = "sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
+   crossorigin = "anonymous" referrerpolicy = "no-referrer"> </script>
 </style>
   </head>
   <body>
@@ -53,6 +59,20 @@
 
   <h1 class="name">I am ZoroDoesCoding</h1>
   <h2 class="work">and I do Coding</h2>
+      <label class = "toggleButton">
+     <input type = "checkbox" id = "toggle">
+     <div class = "roundButton circle" ></div>
+  </label>
+  <script>
+     // If the input checkbox is checked, activate dark mode by adding dark-class to the body
+     $('#toggle').change(() => {
+        if ($('#toggle').is(":checked")) {
+           $("body").addClass("dark-class");
+        } else {
+           $("body").removeClass("dark-class")
+        }
+     })
+  </script>
 
 
 </section>
