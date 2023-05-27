@@ -1,6 +1,6 @@
 table, th, td {
   color: white;
-  border: 0.3125rem solid #C7C7C5;
+  border: 0.3125rem solid #00000;
   border-collapse: collapse;
   border-radius: 6.25rem;
 }
@@ -76,7 +76,8 @@ font-weight: bold;
 font-size: 3.75rem;
 color: red;}
 .work{font-family: 'Sedgwick Ave Display', cursive;}
-.tab{background-color: #C7C7C5	;}
+.tab{background-color: #00000
+  	;}
 body{background-color: #C7C7C5	;}
 .link{color:#198754;
 color: black;  }
