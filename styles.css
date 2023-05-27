@@ -91,22 +91,23 @@ color: black;  }
 .butt{margin:0.625rem 1.25rem 0.625rem 1.25rem;}
 @media only screen and (min-device-width : 20rem) and (max-device-width : 37.5rem) {
 .Introduction{
-   margin:0px;
+   margin:0;
   width:100%;
   height:100vh;
   overflow:hidden;
-  position: relative;
+  position: relative;}
   .dark-class {
-  color: white;
-  background-color: color}
+    color: white;
+    background-: url(https://c4.wallpaperflare.com/wallpaper/754/541/105/one-piece-monkey-d-luffy-hd-wallpaper-preview.jpg);
   }
   table{width:100%;
     height:55vh;
   font-size:0.5rem;}
   .name{font-size: 3rem;
 }
-  .dark-class {
-         color: white;
-         background-image: url(https://c4.wallpaperflare.com/wallpaper/754/541/105/one-piece-monkey-d-luffy-hd-wallpaper-preview.jpg);}
+}
+.dark-class {
+  color: white;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/754/541/105/one-piece-monkey-d-luffy-hd-wallpaper-preview.jpg);}
 
 
